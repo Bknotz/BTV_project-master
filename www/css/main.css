@@ -13,6 +13,15 @@
 	background: black;
 }
 
+.navbar-inner{
+	
+}
+
+body{
+	background-image: url(../img/textured_paper.png);
+	background-repeat: repeat;
+}
+
 @media screen and (max-width:635px) {
 
 	.hero-unit {
